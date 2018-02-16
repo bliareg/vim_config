@@ -1,0 +1,22 @@
+☐ Add scroll suppport
+✔ Fix denite rails @done(2017-11-09 11:34) @project
+☐ Add current git branch to git to lightline
+☐ Add powerline like view for lightline
+☐ Add powerline like view for tabs
+☐ Add scroll to tmux
+☐ Terminal mouse select close
+☐ Terminal rerender
+✔ Git autocomplete @done(2017-11-09 11:34) @project
+☐ Vim templates
+☐ Improve cursor speed
+☐ Fix git status at empty file
+☐ Command snippet
+☐ Fix vcollor
+☐ Fix term scrll with MouseTerm
+☐ Fix tmux scroll to one row
+☐ Fix vim rendering
+☐ Fix visual down line movment
+
+☐ Add new plugins
+☐ Apply rspec tests
+☐ Integrate zeus
